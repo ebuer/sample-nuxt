@@ -1,0 +1,26 @@
+{
+  "name": "localstorage-sample-panel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.15",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "sweetalert2": "^11.7.3",
+    "vue": "^2.7.10",
+    "vue-json-pretty": "^1.9.4",
+    "vue-server-renderer": "^2.7.10",
+    "vue-sweetalert2": "^5.0.5",
+    "vue-template-compiler": "^2.7.10",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3"
+  }
+}

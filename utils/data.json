@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "key": "talk",
+      "text": "Talk"
+    },
+    {
+      "key": "kill",
+      "text": "Kill"
+    },
+    {
+      "key": "door",
+      "text": "Door"
+    },
+    {
+      "key": "npc",
+      "text": "NPC"
+    },
+    {
+      "key": "tree",
+      "text": "Tree"
+    }
+  ],
+  "npcs": [
+    {
+      "key": "mysteriousStranger",
+      "text": "Mysterious Stranger"
+    },
+    {
+      "key": "historian",
+      "text": "Historian"
+    }
+  ]
+}
